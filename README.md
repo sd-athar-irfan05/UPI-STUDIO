@@ -38,8 +38,6 @@ UPI-QR/
 ├── requirements.txt
 ├── README.md
 ├── .gitignore
-│
-└── assets/
 ```
 
 ## ⚙️ Installation & Setup
